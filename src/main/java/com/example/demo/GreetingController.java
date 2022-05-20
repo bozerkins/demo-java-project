@@ -21,7 +21,7 @@ public class GreetingController {
 
     @GetMapping("/hello")
     public String hello() {
-        // return view name - hello.html
+        // return view name - yolo
         return "hello";
     }
 }
